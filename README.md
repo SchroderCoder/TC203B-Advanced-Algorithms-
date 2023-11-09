@@ -1,2 +1,2 @@
 # TC203B-Advanced-Algorithms-
-TC2038 (Advanced Algorithms)
+Repository for development of solutions based on advanced algorithms for search, graphs, file reading problems.
